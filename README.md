@@ -1,1 +1,3 @@
-# kotov-lv
+---
+permalink: /index.html
+---
